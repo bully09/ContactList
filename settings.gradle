@@ -1,0 +1,4 @@
+rootProject.name = 'contact-list'
+include 'contact-list-api'
+include 'contact-list-core'
+
