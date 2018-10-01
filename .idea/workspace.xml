@@ -2,29 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2821c0ab-3c2b-4878-8d0c-b3aaecad6595" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileContent/annotation-processors.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileContent/annotation-processors.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileContent/fileContent.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/contact-list-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact-list-api/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/contact-list-api/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact-list-api/out/production/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/contact-list-api/out/production/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact-list-api/out/test/classes/ContactTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/contact-list-api/out/test/classes/ContactTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact-list-api/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/contact-list-api/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact-list-api/src/test/java/ContactTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/contact-list-api/src/test/java/ContactTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact-list-core/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/contact-list-core/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact-list-core/build/classes/java/main/org/contact/list/dao/ContactListDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact-list-core/build/classes/java/main/org/contact/list/entities/Contact.class" beforeDir="false" afterPath="$PROJECT_DIR$/contact-list-core/build/classes/java/main/org/contact/list/entities/Contact.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact-list-core/build/classes/java/main/org/contact/list/service/ContactListService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact-list-core/build/classes/java/main/org/contact/list/service/impl/ContactServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/contact-list-core/build/classes/java/main/org/contact/list/service/impl/ContactServiceImpl.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -99,7 +80,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="8" />
-          <entry key="gradle" value="291" />
+          <entry key="gradle" value="293" />
           <entry key="java" value="4734" />
           <entry key="properties" value="300" />
           <entry key="sql" value="194" />
@@ -108,7 +89,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Groovy" value="291" />
+          <entry key="Groovy" value="293" />
           <entry key="JAVA" value="4734" />
           <entry key="PLAIN_TEXT" value="20" />
           <entry key="Properties" value="300" />
@@ -147,7 +128,7 @@
         <entry file="file://$PROJECT_DIR$/contact-list-api/src/test/java/ContactTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="256">
-              <caret line="45" column="20" lean-forward="true" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
+              <caret line="45" column="20" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -155,11 +136,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+            <state relative-caret-position="96">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -168,16 +149,16 @@
         <entry file="file://$PROJECT_DIR$/contact-list-api/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="192">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contact-list-core/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+            <state relative-caret-position="144">
+              <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -475,6 +456,10 @@
                 <option name="name" value="help" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="stage" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Assembles and tests this project." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="build" />
@@ -656,6 +641,10 @@
                 <option name="name" value="help" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/contact-list-api" />
+                <option name="name" value="stage" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Bundles the project as a distribution." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/contact-list-api" />
                 <option name="name" value="bootDistTar" />
@@ -707,16 +696,6 @@
                 <option name="name" value="projects" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Installs the project as a distribution as-is." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/contact-list-core" />
-                <option name="name" value="installBootDist" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Generates OS-specific start scripts to run the project as a Spring Boot application." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/contact-list-core" />
-                <option name="name" value="bootStartScripts" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Assembles main classes." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/contact-list-core" />
                 <option name="name" value="classes" />
@@ -727,19 +706,9 @@
                 <option name="name" value="dependentComponents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles the boot distributions" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/contact-list-core" />
-                <option name="name" value="assembleBootDist" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Displays all buildscript dependencies declared in project ':contact-list-core'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/contact-list-core" />
                 <option name="name" value="buildEnvironment" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Runs this project as a JVM application" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/contact-list-core" />
-                <option name="name" value="run" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles test classes." />
@@ -750,11 +719,6 @@
                 <option name="description" value="Generates Javadoc API documentation for the main source code." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/contact-list-core" />
                 <option name="name" value="javadoc" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Creates OS specific scripts to run the project as a JVM application." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/contact-list-core" />
-                <option name="name" value="startScripts" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles an executable jar archive containing the main classes and their dependencies." />
@@ -772,11 +736,6 @@
                 <option name="name" value="model" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Installs the project as a distribution as-is." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/contact-list-core" />
-                <option name="name" value="installDist" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Processes main resources." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/contact-list-core" />
                 <option name="name" value="processResources" />
@@ -785,11 +744,6 @@
                 <option name="description" value="Displays the tasks runnable from project ':contact-list-core'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/contact-list-core" />
                 <option name="name" value="tasks" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles the main distributions" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/contact-list-core" />
-                <option name="name" value="assembleDist" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Runs the unit tests." />
@@ -847,19 +801,13 @@
                 <option name="name" value="processTestResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Bundles the project as a distribution." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/contact-list-core" />
-                <option name="name" value="bootDistZip" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Displays a help message." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/contact-list-core" />
                 <option name="name" value="help" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Bundles the project as a distribution." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/contact-list-core" />
-                <option name="name" value="bootDistTar" />
+                <option name="name" value="stage" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles and tests this project." />
@@ -870,16 +818,6 @@
                 <option name="description" value="Assembles and tests this project and all projects it depends on." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/contact-list-core" />
                 <option name="name" value="buildNeeded" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Bundles the project as a distribution." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/contact-list-core" />
-                <option name="name" value="distTar" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Bundles the project as a distribution." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/contact-list-core" />
-                <option name="name" value="distZip" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the properties of project ':contact-list-core'." />
@@ -893,11 +831,11 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="9230025273147" />
+        <entry key="$PROJECT_DIR$" value="9230033638249" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
-        <entry key="$PROJECT_DIR$/build.gradle" value="1549846887" />
-        <entry key="$PROJECT_DIR$/contact-list-api/build.gradle" value="3001808057" />
-        <entry key="$PROJECT_DIR$/contact-list-core/build.gradle" value="3607169810" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="2246011388" />
+        <entry key="$PROJECT_DIR$/contact-list-api/build.gradle" value="987791266" />
+        <entry key="$PROJECT_DIR$/contact-list-core/build.gradle" value="785174670" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="2007532874" />
         <entry key="$PROJECT_DIR$/settings.gradle" value="2867497162" />
       </map>
@@ -1089,11 +1027,11 @@
         <option value="$PROJECT_DIR$/contact-list-core/src/main/java/org/contact/list/entities/ContactUser.java" />
         <option value="$PROJECT_DIR$/contact-list-api/src/main/java/org/contact/list/controller/UserController.java" />
         <option value="$PROJECT_DIR$/settings.gradle" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/contact-list-api/build.gradle" />
         <option value="$PROJECT_DIR$/contact-list-api/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/contact-list-api/src/test/java/ContactTest.java" />
         <option value="$PROJECT_DIR$/contact-list-core/build.gradle" />
+        <option value="$PROJECT_DIR$/build.gradle" />
       </list>
     </option>
   </component>
@@ -1177,7 +1115,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538386817959" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538387082623" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -1200,7 +1138,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ContactTest">
+  <component name="RunManager" selected="Application.Application">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.contact.list.Application" />
       <module name="contact-list-api_main" />
@@ -1288,9 +1226,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Application" />
         <item itemvalue="JUnit.ContactTest" />
         <item itemvalue="JUnit.ContactTest,test1_save and 1 more" />
-        <item itemvalue="Application.Application" />
         <item itemvalue="JUnit.ContactTest.test5_getAll" />
         <item itemvalue="JUnit.ContactTest.test1_save" />
       </list>
@@ -1310,9 +1248,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ContactTest_test5_getAll - 2018.09.29 at 21h 10m 00s.xml">
-      <configuration name="ContactTest.test5_getAll" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ContactTest_test5_getAll - 2018.09.29 at 21h 19m 43s.xml">
       <configuration name="ContactTest.test5_getAll" configurationId="JUnit" />
     </history-entry>
@@ -1338,6 +1273,9 @@
       <configuration name="ContactTest,test1_save and 1 more" configurationId="JUnit" />
     </history-entry>
     <history-entry file="ContactTest - 2018.10.01 at 02h 08m 31s.xml">
+      <configuration name="ContactTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ContactTest - 2018.10.01 at 02h 43m 54s.xml">
       <configuration name="ContactTest" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -1721,7 +1659,7 @@
     <entry file="file://$PROJECT_DIR$/contact-list-api/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
@@ -1739,17 +1677,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/contact-list-api/src/test/java/ContactTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
-          <caret line="45" column="20" lean-forward="true" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
+          <caret line="45" column="20" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1758,8 +1689,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/contact-list-core/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        <state relative-caret-position="144">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>

@@ -5,6 +5,9 @@ allprojects {
     apply plugin: 'java'
     apply plugin: 'idea'
 
+    task stage(dependsOn: ['build', 'clean'])
+    build.mustRunAfter clean
+
     sourceCompatibility = 1.8
     targetCompatibility = 1.8
 
