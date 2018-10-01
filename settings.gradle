@@ -1,4 +1,4 @@
-rootProject.name = 'contact-list'
+rootProject.name = 'contact-list-back-surias'
 include 'contact-list-api'
 include 'contact-list-core'
 
