@@ -22,10 +22,4 @@ subprojects {
     project.ext {
         springBootVersion = '2.0.5.RELEASE'
     }
-
-    project(':contact-list-api') {
-        dependencies {
-            compile project(':contact-list-core')
-        }
-    }
 }

@@ -43,7 +43,7 @@ public class ContactTest {
 
     @Test
     public void test2_saveComplete() {
-        contact.setId(1);
+        contact.setId(54);
         contact.setNickName("Deadpool");
         contactService.saveOrUpdate(contact);
         assertNotNull(contact.getId());
